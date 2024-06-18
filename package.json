@@ -1,0 +1,12 @@
+{
+  "name": "finfrei-infod",
+  "version": "1.0.0",
+  "description": "Trabalho do Pedro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
